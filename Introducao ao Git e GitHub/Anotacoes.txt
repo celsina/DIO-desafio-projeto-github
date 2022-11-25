@@ -1,0 +1,11 @@
+ANOTAÇÕES - Curso: Introdução ao Git e GitHub
+
+Comandos git (enviando do servidor local para o remoto):
+
+-> git add .
+-> git commit -m "comentário do que foi feito no commit"
+-> git status
+-> git push origin main
+
+
+
